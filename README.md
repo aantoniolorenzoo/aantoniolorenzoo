@@ -1,7 +1,10 @@
 <h1 align="center"> Hi, I´m Antonio 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 <h1 align="center"></h1
-
+<h4 align="right">Visitor's count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{aantoniolorenzoo}/count.svg" alt="aantoniolorenzoo :: Visitor's Count" /></p>
+<br/>
+<img align="right" height="220px" src="https://blog.yuebaix.com/logo/imyuebaix.gif" alt="aantoniolorenzoo" />
 
 <h2 align="left"> ## About me </h2>
 𝐈 ❤️ 𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝 & 𝐁𝐚𝐜𝐤-𝐞𝐧𝐝  𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭!
