@@ -36,7 +36,7 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span>𝗖++</span><br><br><br>
-        <img height="64px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3AISO_C%252B%252B_Logo.svg&psig=AOvVaw3ceRRVRKZOD341UkUl2yrD&ust=1697214254978000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCPDvlPn18IEDFQAAAAAdAAAAABAm">
+        <img height="64px" src="https://www.flaticon.es/icono-gratis/c-_6132222">
       </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
