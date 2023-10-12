@@ -36,11 +36,11 @@
     <tr valign="top">
       <td width="25%" align="center">
         <span>𝗖++</span><br><br><br>
-        <img height="64px" src="https://www.flaticon.es/icono-gratis/c-_6132222">
+        <img height="64px" src="https://user-images.githubusercontent.com/59575502/127426757-5335f7bc-c63a-4e58-9e96-f43982df842d.png">
       </td>
       <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <span>𝗦𝗤𝗟</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sql-icon.svg">
       </td>
        <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
