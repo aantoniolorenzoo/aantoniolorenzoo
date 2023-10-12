@@ -1,12 +1,10 @@
 <h1 align="center"> Hi, I´m Antonio 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
 <h1 align="center"></h1
-<h4 align="right">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{aantoniolorenzoo}/count.svg" alt="aantoniolorenzoo :: Visitor's Count" /></p>
-<br/>
-<img align="right" height="220px" src="https://blog.yuebaix.com/logo/imyuebaix.gif" alt="aantoniolorenzoo" />
 
 <h2 align="left"> ## About me </h2>
+<p align="left">
+<h2 align="left"></h2
 𝐈 ❤️ 𝐅𝐫𝐨𝐧𝐭-𝐞𝐧𝐝 & 𝐁𝐚𝐜𝐤-𝐞𝐧𝐝  𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭!
 💻 𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐚𝐭 𝐦𝐮𝐥𝐭𝐢-𝐩𝐥𝐚𝐭𝐟𝐨𝐫𝐦 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭!
 ☄️ 𝗜 𝗽𝘂𝘁 𝗺𝗼𝘀𝘁𝗹𝘆 𝗼𝗳 𝗺𝘆 𝗳𝗼𝗰𝘂𝘀 𝗼𝗻 𝗝𝗮𝘃𝗮, 𝗛𝗧𝗠𝗟 𝗮𝗻𝗱 𝗖𝗦𝗦.
