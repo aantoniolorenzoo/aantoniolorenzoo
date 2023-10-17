@@ -32,7 +32,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
     </tr>
-    <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300px" height="350px" />
+    <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400px" height="350px" />
     <tr valign="top">
       <td width="25%" align="center">
         <span>𝗖++</span><br><br><br>
